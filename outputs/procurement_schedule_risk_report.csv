@@ -1,0 +1,6 @@
+equipment_id,package,selected_vendor,po_date,lead_time_weeks,promised_delivery_date,need_by_date,schedule_buffer_days,risk_flag,status
+EQ-100,Acid Roasting Kiln,Kiln Dynamics Corp,2026-06-15,9,2026-08-17,2026-08-16,-1,AT RISK - promised delivery misses need-by date,In Fabrication
+EQ-200,Leaching & Filtration Tanks,Process Vessels Inc,2026-06-16,7,2026-08-04,2026-08-16,12,OK,In Fabrication
+EQ-300,Lime Precipitation Reactor,Process Vessels Inc,2026-06-16,7,2026-08-04,2026-08-16,12,OK,In Fabrication
+EQ-400,Causticization Reactor,Reaction Systems Ltd,2026-06-17,8,2026-08-12,2026-08-16,4,TIGHT - <5 day buffer,PO Issued
+EQ-500,Crystallizer-Centrifuge-Dryer Package,Crystal Process Co,2026-06-17,8,2026-08-12,2026-08-16,4,TIGHT - <5 day buffer,PO Issued

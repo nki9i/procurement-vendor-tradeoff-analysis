@@ -1,0 +1,4 @@
+vendor,capital_cost_usd,lead_time_weeks,schedule_risk_days,technical_fit_score,reference_performance_score,warranty_years,weighted_total
+Nordic Separation Systems,2620000,7,7.0,9.0,9.0,3,0.7000000000000001
+Crystal Process Co,2450000,8,0.0,8.5,8.0,2,0.6184090909090909
+ThermoCryst Solutions,2180000,12,-28.0,7.0,6.5,1,0.3

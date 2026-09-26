@@ -1,0 +1,5 @@
+scenario,top_vendor,top_score
+Baseline (schedule-aware),Nordic Separation Systems,0.7
+Cost-driven,Crystal Process Co,0.548
+Schedule-driven,Nordic Separation Systems,0.85
+Quality-driven,Nordic Separation Systems,0.85

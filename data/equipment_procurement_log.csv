@@ -1,0 +1,6 @@
+equipment_id,package,description,selected_vendor,po_date,lead_time_weeks,need_by_date,status
+EQ-100,Acid Roasting Kiln,Rotary kiln + refractory lining for spodumene acid roast (~250C),Kiln Dynamics Corp,2026-06-15,9,2026-08-16,In Fabrication
+EQ-200,Leaching & Filtration Tanks,Agitated leach tanks + plate-and-frame filter press,Process Vessels Inc,2026-06-16,7,2026-08-16,In Fabrication
+EQ-300,Lime Precipitation Reactor,Agitated reactor train for Fe/Al/Mg hydroxide precipitation,Process Vessels Inc,2026-06-16,7,2026-08-16,In Fabrication
+EQ-400,Causticization Reactor,Agitated reactor + clarifier for Li2SO4 causticization,Reaction Systems Ltd,2026-06-17,8,2026-08-16,PO Issued
+EQ-500,Crystallizer-Centrifuge-Dryer Package,Forced-circulation crystallizer + centrifuge + rotary dryer for LiOH*H2O,Crystal Process Co,2026-06-17,8,2026-08-16,PO Issued
